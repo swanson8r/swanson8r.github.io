@@ -28,6 +28,7 @@ The following schema and formatting have been applied to convert LinkedIn Profil
        - `Education` section should only list the End Date if completed.
        - Multiple Social Media `Profiles` are not currently populated into the template.
      - HTML file can then be printed to PDF.
+       - Make sure to uncheck Headers and Footers to omit page numbers, filename, and timestamp.
 3. Upload to [Github Pages](https://swanson8r.github.io/cv)
    - This is currently a manual process, but could be performed as a Github Actions workflow if the manual steps are addressed.
      - Files are stored under [/docs/cv](./) with this page ([index.md](./index.md))

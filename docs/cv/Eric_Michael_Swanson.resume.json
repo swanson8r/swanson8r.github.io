@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "Eric Swanson",
+    "label": "",
+    "image": "",
+    "email": "swanson.eric.m@gmail.com",
+    "phone": "+1 603-748-3539",
+    "url": [
+      "https://swanson8r.github.io"
+    ],
+    "summary": "As a Human Intelligence Practitioner of Site Reliability & Incident Management, I establish and maintain genuine connections with service owning teams to identify assumptions and understand the actual needs behind their stated problems",
+    "location": {
+      "address": "97 Broadway Apt. #1",
+      "postalCode": "NH 03301",
+      "city": "Concord",
+      "countryCode": "US",
+      "region": "New Hampshire"
+    }
+  },
+  "work": [
+    {
+      "name": "dbt Labs",
+      "position": "Site Reliability Engineer, Observability",
+      "url": "https://www.getdbt.com/about-us/values",
+      "startDate": "2022-10-03",
+      "endDate": "2025-06-13",
+      "summary": "Distributed team support through Observability. Culture carrier",
+      "highlights": [
+         "Trained On-Call Responders, maintained Incident Management System and documentation",
+         "Guided Incident Post-mortem RCA and Contributing Factor discussions with service owning teams",
+         "Created Dashboards and GitHub monitoring PRs for Datadog account (Org) Consolidation",
+         "Codified service Availability and Performance into SLOs using a custom Datadog Terraform module",
+         "Migrated from Pagerduty and Atlassian Status Page to Incident.io, maintained vendor relationship and product updates"
+      ]
+    },
+    {
+      "name": "NS1",
+      "position": "TechOps / Observability Engineer",
+      "url": "https://newsroom.ibm.com/IBM-Plans-to-Acquire-NS1-to-Help-Enterprises-Drive-Network-Agility-in-their-Hybrid-Cloud-Environments",
+      "startDate": "2019-08-01",
+      "endDate": "2022-10-01",
+      "summary": "",
+      "highlights": [
+        "Improved Alertmanager monitoring & VictorOps (now Splunk On-Call) alert response for DNS backend systems",
+        "Coordinated with and maintained async status notes for distributed team members in Vietnam (~12 hrs apart)",
+        "Investigated and addressed cluster issues with Elasticsearch, Logstash, and Kibana (ELK) stack",
+        "Developed SLOs with teams and ensured SLIs were exposed for monitoring"
+      ]
+    },
+    {
+      "name": "Dyn",
+      "position": "Sustaining Engineer",
+      "url": "https://www.glassdoor.com/Photos/Dyn-Office-Photos-IMG208510_P3.htm",
+      "startDate": "2015-08-01",
+      "endDate": "2019-08-01",
+      "summary": "A \"Meat Shield\" protecting Software Engineers from paging alert escalations",
+      "highlights": [
+        "Improved Nagios Monitoring and Confluence Runbooks for On-Call Response",
+        "Enhanced service visibility by creating Grafana dashboards and alert integrations",
+        "Created monitoring plugins in Python and bash for use with Nagios and Sensu",
+        "Completed Operational Readiness for Internet Intelligence product documentation and monitoring"
+      ]
+    },
+    {
+      "name": "U.S. District Court",
+      "position": "Programmer Analyst",
+      "url": "https://exhibits.nhd.uscourts.gov/",
+      "startDate": "2008-05-01",
+      "endDate": "2015-07-01",
+      "summary": "IT and Data Systems support for Federal Clerks, Probation, Judges, and Court Reporters",
+      "highlights": []
+    },
+    {
+      "name": "Eric Swanson Computer Consulting",
+      "position" : "Sole Proprietor",
+      "startDate": "2006-02-01",
+      "endDate": "",
+      "description": "Provide hardware and software on-site support and training for residential and small business clients.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "MadgeTech, Inc.",
+      "position": "Technical Sales & RMA Engineer",
+      "url": "https://www.madgetech.com/services/repair-request/",
+      "startDate": "2005-12-01",
+      "endDate": "2008-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "State of New Hampshire",
+      "position": "Systems Development Specialist V  - DHHS",
+      "url": "https://www.dhhs.nh.gov/programs-services/medicaid",
+      "startDate": "2001-04-01",
+      "endDate": "2004-02-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Hampshire",
+      "url": "https://ceps.unh.edu/",
+      "area": "Electrical Engineering",
+      "studyType": "BSEE",
+      "startDate": "1994-08-01",
+      "endDate": "1999-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scripting & Config Languages",
+      "level": "",
+      "keywords": [
+        "Bash",
+        "Python",
+        "JavaScript",
+        "Perl",
+        "Terraform HCL",
+        "YAML",
+        "Jsonnet",
+        "Git"
+      ]
+    },
+    {
+      "name": "CI/CD & Cloud Containers",
+      "level": "",
+      "keywords": [
+        "Helm",
+        "ArgoCD",
+        "Ansible",
+        "Jenkins",
+        "Kubernetes",
+        "Docker",
+        "AWS CLI",
+        "Microsoft Azure"
+      ]
+    }, 
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "Datadog",
+        "Elastic Stack (ELK)",
+        "Grafana",
+        "Sensu",
+        "Prometheus.io Alertmanager",
+        "Graphite",
+        "Nagios",
+        "Logz.io"
+      ]
+    }
+  ],
+ "projects": [
+    {
+      "name": "Winter 2023-2024 Electric Bill Investigation",
+      "startDate": "2023-11-01",
+      "endDate": "2024-01-01",
+      "description": "Discovered a linear increase in daily electricity usage and determined its source.",
+      "highlights": [],
+      "url": ""
+    }
+  ]
+}

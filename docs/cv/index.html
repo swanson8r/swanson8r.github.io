@@ -1,0 +1,383 @@
+<!doctype html>
+<html>
+    <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+
+    <title>Eric Swanson</title>
+
+    <style>
+    /* Template level */
+body {
+    font-family: Georgia, serif;
+    font-size: 11px;
+    margin: 24px 48px;
+}
+
+h1 {
+    font-size: 26px;
+    text-align: center;
+    margin: 5px;
+}
+
+h2 {
+    border-width: 1px;
+    border-style: none none solid none;
+    margin: 10px 0 2.5px 0;
+}
+
+section {
+    margin: 3px 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.item {
+    margin-top: 8px;
+}
+
+.item>.item-header {
+    float: left;
+    display: block;
+}
+
+.item>.item-header>.item-header-title {
+    font-weight: bold;
+}
+
+.item>.item-header>.item-header-subtitle {
+    font-style: italic;
+}
+
+.item>.item-details {
+    float: right;
+    text-align: right;
+}
+
+.item>.item-details>.item-details-title {
+    font-weight: bold;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.centered {
+    text-align: center;
+}
+
+/* Section specific */
+/* basics */
+.vertical-separator {
+    text-align: center;
+    padding: 0 10px;
+}
+
+.vertical-separator:not(:first-child) {
+    border-left: 1px solid #000;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+.col {
+    flex: 1;
+    min-width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.profile-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: left;
+}
+.title-subtitle {
+    flex: 1;
+    min-width: 80px;
+}
+.url {
+    margin-left: 20px;
+    word-break: break-all; 
+    overflow-wrap: break-word; 
+}
+a {
+    word-break: break-all;
+    overflow-wrap: break-word;
+}
+
+/* Set some print settings. */
+@media print {
+    @page {
+        size: portrait;
+        margin: 10mm 25mm;
+    }
+    .resume {
+        max-width: 100%;
+        border: 0px;
+        background: #fff;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    body,
+    html,
+    .resume {
+        margin: 0px;
+        padding: 0px;
+    }
+    .controls {
+        display: none;
+    }
+    .section {
+        page-break-inside: avoid; 
+        margin-bottom: 20px; 
+    }
+
+    .section h2 {
+        page-break-after: avoid; 
+    }
+
+    .row, .col {
+        page-break-inside: avoid; 
+    }
+}
+    </style>
+
+    </head>
+    <body>
+
+    <div id="resume">
+        <div class="section">
+            <section id="basics">
+                <h1>Eric Swanson</h1>
+                <div class="contact centered">
+            <span class="vertical-separator"><a href="mailto:swanson.eric.m@gmail.com">swanson.eric.m@gmail.com</a></span><span class="vertical-separator">+1 603-748-3539</span>        <span class="vertical-separator">Concord, US</span>
+            <span class="vertical-separator"><a href="https://swanson8r.github.io">swanson8r.github.io</a></span>    </div>
+                <div class="summary">
+                    <h2>Summary</h2>
+                    <p>As a Human Intelligence Practitioner of Site Reliability & Incident Management, I establish and maintain genuine connections with service owning teams to identify assumptions and understand the actual needs behind their stated problems</p>
+                </div>
+            </section>
+        </div>
+        <div class="section">
+            <section id="skills">
+                <h2>Skills</h2>
+                <ul class="item">
+                    <li>
+                        <strong>Scripting &amp; Config Languages</strong>: Bash, Python, JavaScript, Perl, Terraform HCL, YAML, Jsonnet, Git
+                    </li>
+                    <li>
+                        <strong>CI/CD &amp; Cloud Containers</strong>: Helm, ArgoCD, Ansible, Jenkins, Kubernetes, Docker, AWS CLI, Microsoft Azure
+                    </li>
+                    <li>
+                        <strong>Data Analysis</strong>: Datadog, Elastic Stack (ELK), Grafana, Sensu, Prometheus.io Alertmanager, Graphite, Nagios, Logz.io
+                    </li>
+                </ul>
+            </section>
+        </div>
+        <div class="section">
+            <section id="work">
+                <h2>Work Experience</h2>
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        dbt Labs
+                    </div>
+                    <div class="item-header-subtitle">
+                        Site Reliability Engineer, Observability
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Oct 2022 — Jun 2025
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+                        <ul class="highlights">
+                            <li>Trained On-Call Responders, maintained Incident Management System and documentation</li>
+                            <li>Guided Incident Post-mortem RCA and Contributing Factor discussions with service owning teams</li>
+                            <li>Created Dashboards and GitHub monitoring PRs for Datadog account (Org) Consolidation</li>
+                            <li>Codified service Availability and Performance into SLOs using a custom Datadog Terraform module</li>
+                            <li>Migrated from Pagerduty and Atlassian Status Page to Incident.io, maintained vendor relationship and product updates</li>
+                        </ul>
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        NS1
+                    </div>
+                    <div class="item-header-subtitle">
+                        TechOps / Observability Engineer
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Aug 2019 — Oct 2022
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+                        <ul class="highlights">
+                            <li>Improved Alertmanager monitoring & VictorOps (now Splunk On-Call) alert response for DNS backend systems</li>
+                            <li>Coordinated with and maintained async status notes for distributed team members in Vietnam (~12 hrs apart)</li>
+                            <li>Investigated and addressed cluster issues with Elasticsearch, Logstash, and Kibana (ELK) stack</li>
+                            <li>Developed SLOs with teams and ensured SLIs were exposed for monitoring</li>
+                        </ul>
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        Dyn
+                    </div>
+                    <div class="item-header-subtitle">
+                        Sustaining Engineer
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Aug 2015 — Aug 2019
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+                        <ul class="highlights">
+                            <li>Improved Nagios Monitoring and Confluence Runbooks for On-Call Response</li>
+                            <li>Enhanced service visibility by creating Grafana dashboards and alert integrations</li>
+                            <li>Created monitoring plugins in Python and bash for use with Nagios and Sensu</li>
+                            <li>Completed Operational Readiness for Internet Intelligence product documentation and monitoring</li>
+                        </ul>
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        U.S. District Court
+                    </div>
+                    <div class="item-header-subtitle">
+                        Programmer Analyst
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        May 2008 — Jul 2015
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        Eric Swanson Computer Consulting
+                    </div>
+                    <div class="item-header-subtitle">
+                        Sole Proprietor
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Feb 2006 — Present
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        MadgeTech, Inc.
+                    </div>
+                    <div class="item-header-subtitle">
+                        Technical Sales &amp; RMA Engineer
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Dec 2005 — Apr 2008
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+            </div><div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        State of New Hampshire
+                    </div>
+                    <div class="item-header-subtitle">
+                        Systems Development Specialist V  - DHHS
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Apr 2001 — Feb 2004
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                
+            </div></section>
+        </div>
+        <div class="section">
+        </div>
+        <div class="section">
+            <section id="education">
+                <h2>Education</h2>
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        University of New Hampshire
+                    </div>
+                    <div class="item-header-subtitle">
+                        BSEE
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Aug 1994 — May 1999
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div></section>
+        </div>
+        <div class="section">
+        </div>
+        <div class="section">
+        </div>
+        <div class="section">
+            <section id="projects">
+              <h2>Projects</h2>
+              <div class="item">
+                  
+                    
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-header-title">
+                        Winter 2023-2024 Electric Bill Investigation
+                    </div>
+                    <div class="item-header-subtitle">
+                        Discovered a linear increase in daily electricity usage and determined its source.
+                    </div>
+                </div>
+                <div class="item-details">
+                    <div class="date">
+                        Nov 2023 — Jan 2024
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>        
+                    
+              </div>
+            </section>
+        </div>
+        <div class="section">
+        </div>
+    </div>
+    
+    </body>
+</html>
