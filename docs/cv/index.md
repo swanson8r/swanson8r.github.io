@@ -13,6 +13,8 @@ The following schema and formatting have been applied to convert LinkedIn Profil
          ```
      - See original web version at [jmperezperez.com/linkedin-to-json-resume](https://jmperezperez.com/linkedin-to-json-resume/)
    - Manual editing of the JSON file is currently required post-conversion to populate a number of attributes.
+     - Include middle name
+     - Omit +1 for US phone number
      - `Skills` need to be categorized and moved into keywords
      - `Experience` Summary often needs to be moved into separate Highlights
      - `countryCode` needs to be changed from empty or "United States" to "US"
@@ -27,8 +29,11 @@ The following schema and formatting have been applied to convert LinkedIn Profil
      - Until the source code is updated, manual edits to the generated HTML are required for proper format.
        - `Education` section should only list the End Date if completed.
        - Multiple Social Media `Profiles` are not currently populated into the template.
+       - Add a LinkedIn profile link.
      - HTML file can then be printed to PDF.
        - Make sure to uncheck Headers and Footers to omit page numbers, filename, and timestamp.
-3. Upload to [Github Pages](https://swanson8r.github.io/cv)
+3. Upload PDF to [ResumeGo Resume Checker](https://www.resumego.net/resume-checker/)
+   - Review score and improvement suggestions.
+4. Upload to [Github Pages](https://swanson8r.github.io/cv)
    - This is currently a manual process, but could be performed as a Github Actions workflow if the manual steps are addressed.
      - Files are stored under [/docs/cv](./) with this page ([index.md](./index.md))
