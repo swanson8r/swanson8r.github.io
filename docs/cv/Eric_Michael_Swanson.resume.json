@@ -4,19 +4,60 @@
     "label": "",
     "image": "",
     "email": "swanson.eric.m@gmail.com",
-    "phone": "+1 603-748-3539",
+    "phone": "603-748-3539",
     "url": [
       "https://swanson8r.github.io"
     ],
-    "summary": "Human Intelligence Practitioner of Site Reliability & Incident Management focused on establishing and maintaining genuine connections with service owning teams to identify assumptions and understand the actual needs behind stated problems",
+    "summary": "Human Intelligence Practitioner of Site Reliability and Incident Management focused on establishing and maintaining genuine connections with service owning teams to identify assumptions and understand actual needs behind stated pain",
     "location": {
-      "address": "97 Broadway Apt. #1",
-      "postalCode": "NH 03301",
-      "city": "Concord",
-      "countryCode": "US",
-      "region": "New Hampshire"
     }
-  },
+  },  
+  "skills": [
+    {
+      "name": "Code",
+      "level": "",
+      "keywords": [
+        "Bash",
+        "Python",
+        "JavaScript",
+        "Perl",
+        "Terraform HCL",
+        "YAML",
+        "Jsonnet",
+        "Git"
+      ]
+    },
+    {
+      "name": "Config",
+      "level": "",
+      "keywords": [
+        "Helm",
+        "ArgoCD",
+        "Github Actions",
+        "Ansible",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "AWS CLI",
+        "Microsoft Azure"
+      ]
+    }, 
+    {
+      "name": "O11y",
+      "level": "",
+      "keywords": [
+        "Datadog",
+        "Elasticsearch",
+        "Logstash",
+        "Kibana",
+        "Grafana",
+        "Prometheus Alertmanager",
+        "Sensu",
+        "Nagios",
+        "Graphite"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "dbt Labs",
@@ -26,11 +67,11 @@
       "endDate": "2025-06-13",
       "summary": "Distributed team support through Observability. Culture carrier",
       "highlights": [
-         "Trained On-Call Responders, maintained Incident Management System and documentation",
-         "Guided Incident Post-mortem RCA and Contributing Factor discussions with service owning teams",
-         "Created Dashboards and GitHub monitoring PRs for Datadog account (Org) Consolidation",
-         "Codified service Availability and Performance into SLOs using a custom Datadog Terraform module",
-         "Migrated from Pagerduty and Atlassian Status Page to Incident.io, maintained vendor relationship and product updates"
+         "Trained engineering teams in on-call response, maintained Notion documentation",
+         "Guided customer impacting post-mortem RCA discussions to prepare teams for Weekly Ops Review",
+         "Refactored Terraform managed dashboard and monitor env tags to consolidate 3 Datadog accounts",
+         "Reviewed and improved Datadog Terraform SLO module for service availability and performance",
+         "Migrated Pagerduty and Atlassian Statuspage to Incident.io, maintained product updates"
       ]
     },
     {
@@ -41,10 +82,10 @@
       "endDate": "2022-10-01",
       "summary": "",
       "highlights": [
-        "Improved Alertmanager monitoring & VictorOps (now Splunk On-Call) alert response for DNS backend systems",
-        "Coordinated with and maintained async status notes for distributed team members in Vietnam (~12 hrs apart)",
+        "Improved Alertmanager monitoring and VictorOps alert response for DNS backend systems",
+        "Maintained Confluence documentation of async status for distributed team members (+12 hrs)",
         "Investigated and addressed cluster issues with Elasticsearch, Logstash, and Kibana (ELK) stack",
-        "Developed SLOs with teams and ensured SLIs were exposed for monitoring"
+        "Developed SLOs with teams and ensured SLIs were exposed for Prometheus scraping and monitoring"        
       ]
     },
     {
@@ -53,12 +94,12 @@
       "url": "https://www.glassdoor.com/Photos/Dyn-Office-Photos-IMG208510_P3.htm",
       "startDate": "2015-08-01",
       "endDate": "2019-08-01",
-      "summary": "A \"Meat Shield\" protecting Software Engineers from paging alert escalations",
+      "summary": "A \"Meat Shield\" reducing paging alert escalations through Site Reliability Engineering best practices",
       "highlights": [
-        "Improved Nagios Monitoring and Confluence Runbooks for On-Call Response",
-        "Enhanced service visibility by creating Grafana dashboards and alert integrations",
-        "Created monitoring plugins in Python and bash for use with Nagios and Sensu",
-        "Completed Operational Readiness for Internet Intelligence product documentation and monitoring"
+        "Improved Nagios monitoring and Confluence runbooks for on-call response",
+        "Reduced incident acceptance time by creating Grafana dashboards and alert integrations",
+        "Created Nagios and Sensu monitoring plugins with Python and Bash",
+        "Completed Operational Readiness checklist for Internet Intelligence product"
       ]
     },
     {
@@ -110,56 +151,12 @@
       "courses": []
     }
   ],
-  "skills": [
-    {
-      "name": "Scripting & Config Languages",
-      "level": "",
-      "keywords": [
-        "Bash",
-        "Python",
-        "JavaScript",
-        "Perl",
-        "Terraform HCL",
-        "YAML",
-        "Jsonnet",
-        "Git"
-      ]
-    },
-    {
-      "name": "CI/CD & Cloud Containers",
-      "level": "",
-      "keywords": [
-        "Helm",
-        "ArgoCD",
-        "Ansible",
-        "Jenkins",
-        "Kubernetes",
-        "Docker",
-        "AWS CLI",
-        "Microsoft Azure"
-      ]
-    }, 
-    {
-      "name": "Data Analysis",
-      "level": "",
-      "keywords": [
-        "Datadog",
-        "Elastic Stack (ELK)",
-        "Grafana",
-        "Sensu",
-        "Prometheus.io Alertmanager",
-        "Graphite",
-        "Nagios",
-        "Logz.io"
-      ]
-    }
-  ],
  "projects": [
     {
       "name": "Winter 2023-2024 Electric Bill Investigation",
       "startDate": "2023-11-01",
       "endDate": "2024-01-01",
-      "description": "Discovered a linear increase in daily electricity usage and determined its source.",
+      "description": "Recovered $500 in rent from 740 KWh overage in 1 month linear increase caused by leaky heating loop",
       "highlights": [],
       "url": ""
     }
