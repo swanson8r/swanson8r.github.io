@@ -53,7 +53,7 @@
       "url": "https://www.glassdoor.com/Photos/Dyn-Office-Photos-IMG208510_P3.htm",
       "startDate": "2015-08-01",
       "endDate": "2019-08-01",
-      "summary": "A \"Meat Shield\" protecting Software Engineers from paging alert escalations",
+      "summary": "A \"Meat Shield\" reducing paging alert escalations through Site Reliability Engineering best practices",
       "highlights": [
         "Improved Nagios Monitoring and Confluence Runbooks for On-Call Response",
         "Enhanced service visibility by creating Grafana dashboards and alert integrations",
