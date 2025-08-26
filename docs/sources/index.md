@@ -42,7 +42,7 @@
 - [SLO Engineering Case Studies](https://sre.google/workbook/slo-engineering-case-studies/#introduction-of-slos-a-journey-in-progress)
 - [Practices - Some fraction Operations work is Toil](https://sre.google/workbook/part-II-practices/#defining-operational-work)
 - [Maintaining Playbooks](https://sre.google/workbook/on-call/#maintaining-playbooks)
-    
+
 ### [Observability Engineering - Achieving Production Excellence 2022 - First Release](https://www.honeycomb.io/download-thanks-observability-engineering-book)
 - [PD Summit21: HoneyComb.io: SLOs: Reduce Alerting Noise with One Weird Trick - How long until I run out?](https://youtu.be/DOXk2xoAUkw?t=259&si=6Ei9WOcxy5J84CD4) 
 - "The fastest way to drive adoption is to solve the biggest pain points for teams responsible for managing their production services. Target those pains. Resist the urge to start small."
@@ -73,6 +73,12 @@
 #### Homage
 
 ![Datadoge: how alert. such monitoring.](https://www.datadoge.com/pics/datadoge.jpg)
+
+#### Videos
+
+##### DASH
+
+- [Solving reliability fears with service level objectives (Google)](https://www.datadoghq.com/videos/solving-reliability-fears-with-service-level-objectives/)
 
 #### Pricing
 
