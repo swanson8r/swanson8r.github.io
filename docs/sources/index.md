@@ -10,6 +10,14 @@
 
 - [SRENITY ONLINE](https://www.srenity.online/)
 
+### [Tuckman's stages of group development](https://w.wiki/uEr)
+
+- Forming
+- Storming
+- Norming
+- Performing
+- (proposed) Adjouring / Mourning 
+
 ### [Google SRE Books](https://sre.google/books)
 
 #### Site Reliability Engineering: How Google Runs Production Systems 2018 - Fourth Release
