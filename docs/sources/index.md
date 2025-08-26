@@ -135,6 +135,7 @@
 
 ##### Traces (APM)
 
+- https://docs.datadoghq.com/internal_developer_portal/software_catalog/endpoints/monitor_endpoints/
 - https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/nodejs/
   - https://github.com/DataDog/dd-trace-js/issues/934
 
