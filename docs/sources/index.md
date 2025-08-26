@@ -75,6 +75,7 @@
   - [Real User Monitoring (RUM)](https://www.datadoghq.com/pricing/?product=real-user-monitoring#products)
   - [Internal Developer Portal (IDP)](https://www.datadoghq.com/pricing/?product=internal-developer-portal#products)
   - [Event Management](https://www.datadoghq.com/pricing/?product=event-management#products)
+  - [Database Monitoring (DBM)](https://www.datadoghq.com/pricing/?product=database-monitoring#products)
   - [LLM Observability](https://www.datadoghq.com/pricing/?product=llm-observability#products)
   - [Incident Response](https://www.datadoghq.com/pricing/?product=incident-response#products)
     - On-Call and Incident Management as separate licenses
@@ -110,7 +111,7 @@
 
 #### Feature Documentation
 
-#### Cloud Provider
+##### Cloud Provider
 
 - https://docs.datadoghq.com/getting_started/integrations/aws/
 - https://docs.datadoghq.com/containers/amazon_ecs/?tab=awscli
@@ -128,16 +129,16 @@
 - https://github.com/winstonjs/winston/blob/master/docs/transports.md#datadog-transport
   - https://github.com/winstonjs/winston/blob/master/docs/transports.md#datadog-transport
 
-#### Metrics
+##### Metrics
 
 - https://docs.datadoghq.com/metrics/custom_metrics/dogstatsd_metrics_submission/?code-lang=nodejs&tab=nodejs
 
-#### Traces (APM)
+##### Traces (APM)
 
 - https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/nodejs/
   - https://github.com/DataDog/dd-trace-js/issues/934
 
-#### Real User Monitoring (RUM)
+##### Real User Monitoring (RUM)
 
 - https://docs.datadoghq.com/real_user_monitoring/mobile_and_tv_monitoring/react_native/setup/reactnative/
 - https://docs.datadoghq.com/real_user_monitoring/correlate_with_other_telemetry/apm/
