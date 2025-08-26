@@ -46,11 +46,17 @@
 - "Observability-driven development allows engineering teams to turn their glass castles into interactive playgrounds. Production environments aren’t immutable but full of action, and engineers should be empowered to confidently walk into any game and score a win. But that happens only when observability isn’t considered solely the domain of SREs, infrastructure engineers, or operations teams. Software engineers must adopt observability and work it into their development practices in order to unwind the cycle of fear they’ve developed over making any changes to production."
 - "there is a place for documentation meant to quickly orient your team with the needs of a particular service and its jumping-off points… However, maintaining a living document that attempts to contain all possible system errors and resolutions is a futile and dangerous game."
 
-### [From Safety-I to Safety-II: A White Paper]()
+## Resilience
+
+### [From Safety-I to Safety-II: A White Paper](https://www.england.nhs.uk/signuptosafety/wp-content/uploads/sites/16/2015/10/safety-1-safety-2-whte-papr.pdf)
 
 - "Most people think of safety as the absence of accidents and incidents (or as an acceptable level of risk). In this perspective, which we term Safety-I, safety is defined as a state where as few things as possible go wrong."
 - "Safety management should therefore move from ensuring that ‘as few things as possible go wrong’ to ensuring that ‘as many things as possible go right’. We call this perspective Safety-II; it relates to the system’s ability to succeed under varying conditions. A Safety-II approach assumes that everyday performance variability provides the adaptations that are needed to respond to varying conditions, and hence is the reason why things go right. Humans are consequently seen as a resource necessary for system flexibility and resilience. In Safety-II the purpose of investigations changes to become an understanding of how things usually go right, since that is the basis for explaining how things occasionally go wrong."
 
+### [Amplifying Sources of Resilience: John Allspaw at QCon London](https://www.infoq.com/news/2019/04/allspaw-resilience-engineering/)
+
+- "Resilience is aimed at setting and keeping conditions such that unforeseen, unanticipated, unexpected and fundamentally surprising situations can be handled."
+- "In more detail, resilience is: proactive activities aimed at "preparing to be unprepared, without an ability to justify it economically"; sustaining the potential for future adaptive action when conditions change; and something that a system does, not what it has. Another way of thinking of resilience is "sustained adaptive capacity", or as Richard Cook defined, "being poised to adapt"."
 
 ## Observability Tools & Configs
 
