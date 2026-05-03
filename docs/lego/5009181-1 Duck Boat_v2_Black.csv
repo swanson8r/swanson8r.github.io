@@ -1,0 +1,86 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+15068,6047220,15068.dat,"Slope, Curved 2 x 2 x 2/3",1,15,White,Solid Colors,4,0.57
+15712,6335388,15712.dat,"Tile, Modified 1 x 1 with Open O Clip",11,0,Black,Solid Colors,2,0.2
+22885,6275806,22885.dat,"Brick, Modified 1 x 2 x 1 2/3 with Studs on Side",11,0,Black,Solid Colors,1,0
+22888,6133200,22888.dat,"Plate, Round Half 4 x 8",11,0,Black,Solid Colors,2,3.3
+22888,6138699,22888.dat,"Plate, Round Half 4 x 8",1,15,White,Solid Colors,2,3.3
+24246,6489991,24246.dat,"Tile, Round 1 x 1 Half Circle Extended",251,100040,Trans-Black,Transparent Colors,2,0
+2431,243101,2431.dat,Tile 1 x 4,1,15,White,Solid Colors,5,0.54
+25269,6199887,25269.dat,"Tile, Round 1 x 1 Quarter",153,321,Dark Azure,Solid Colors,4,0.1
+26047,6157554,26047.dat,"Plate, Round 1 x 1 with Bar Handle",11,0,Black,Solid Colors,2,0.3
+27507,6458165,27507.dat,"Tile, Round Corner 4 x 4 Macaroni",11,0,Black,Solid Colors,4,0
+27925,6199897,27925.dat,"Tile, Round Corner 2 x 2 Macaroni",153,321,Dark Azure,Solid Colors,4,0.3
+3001,300126,3001.dat,Brick 2 x 4,11,0,Black,Solid Colors,2,2.32
+3002,300226,3002.dat,Brick 2 x 3,11,0,Black,Solid Colors,6,1.92
+3003,4550359,3003.dat,Brick 2 x 2,104,29,Bright Pink,Solid Colors,1,1.35
+3005,300526,3005.dat,Brick 1 x 1,11,0,Black,Solid Colors,2,0.44
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,4,1.2
+3020,302026,3020.dat,Plate 2 x 4,11,0,Black,Solid Colors,3,1.2
+3021,302101,3021.dat,Plate 2 x 3,1,15,White,Solid Colors,2,0.93
+3021,302126,3021.dat,Plate 2 x 3,11,0,Black,Solid Colors,1,0.93
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3023,302301,3023b.dat,Plate 1 x 2,1,15,White,Solid Colors,2,0.36
+3023,302326,3023b.dat,Plate 1 x 2,11,0,Black,Solid Colors,7,0.36
+3024,302426,3024.dat,Plate 1 x 1,11,0,Black,Solid Colors,4,0.2
+3024,302401,3024.dat,Plate 1 x 1,1,15,White,Solid Colors,2,0.2
+30340,4297083,30340.dat,"Minifigure, Utensil Flotation Ring (Life Preserver)",1,15,White,Solid Colors,1,0.54
+3035,303526,3035.dat,Plate 4 x 8,11,0,Black,Solid Colors,2,4.7
+3069,306901,3069b.dat,Tile 1 x 2,1,15,White,Solid Colors,2,0.26
+x223,6472547,33320.dat,Frog,155,330,Olive Green,Solid Colors,1,0
+34337,6255103,34337.dat,Wheel  8mm D. x 6mm with Slot,11,0,Black,Solid Colors,6,0
+3460,346026,3460.dat,Plate 1 x 8,11,0,Black,Solid Colors,4,1.36
+35654,6359942,35654.dat,Bar 1 x 4 x 1 2/3 (Grille Guard / Push Bumper),11,0,Black,Solid Colors,1,0
+3626pb0433,4565278,3626bpb0433.dat,"Minifigure, Head Vertical Cheek Lines, Straight Mouth and White Pupils Pattern (Crash Test Dummy)",3,14,Yellow,Solid Colors,1,0
+3626pb2492,6123728,3626cp70.dat,"Minifigure, Head Dual Sided Eyebrows, Crow's Feet, Open Mouth Smile / Queasy Expression with Sweat Drop Pattern",3,14,Yellow,Solid Colors,1,0
+3660,366026,3660b.dat,"Slope, Inverted 45 2 x 2 with Flat Bottom Pin",11,0,Black,Solid Colors,2,0
+3710,371026,3710.dat,Plate 1 x 4,11,0,Black,Solid Colors,1,0.71
+970,381524,3815b.dat,Hips,3,14,Yellow,Solid Colors,1,0
+971,381624,3816c.dat,"Leg, Right",3,14,Yellow,Solid Colors,1,0
+972,381724,3817c.dat,"Leg, Left",3,14,Yellow,Solid Colors,1,0
+982,381824,3818.dat,"Arm, Right",3,14,Yellow,Solid Colors,2,0.15
+981,381924,3819.dat,"Arm, Left",3,14,Yellow,Solid Colors,2,0.15
+983,382024,3820.dat,Hand,3,14,Yellow,Solid Colors,4,0.09
+3829c01,73081,3829c01.dat,"Vehicle, Steering Stand 1 x 2 with Black Steering Wheel",11,0,Black,Solid Colors,1,0.6
+3895,4210963,3895.dat,"Technic, Brick 1 x 12 with Holes",85,72,Dark Bluish Gray,Solid Colors,2,4.2
+3937,393726,3937.dat,Hinge Brick 1 x 2 Base,11,0,Black,Solid Colors,1,0.48
+3938,393826,3938.dat,Hinge Brick 1 x 2 Top Plate,11,0,Black,Solid Colors,1,0.34
+4070,407026,4070.dat,"Brick, Modified 1 x 1 with Headlight",11,0,Black,Solid Colors,2,0.36
+4079,4524930,4079.dat,"Minifigure, Utensil Seat / Chair 2 x 2",85,72,Dark Bluish Gray,Solid Colors,2,0
+4162,6213268,4162.dat,Tile 1 x 8,153,321,Dark Azure,Solid Colors,2,1.06
+4162,416226,4162.dat,Tile 1 x 8,11,0,Black,Solid Colors,1,1.06
+41740,6249091,41740.dat,"Plate, Modified 1 x 4 with 2 Studs with Groove",1,15,White,Solid Colors,5,0.6
+44728,6117973,44728.dat,Bracket 1 x 2 - 2 x 2,11,0,Black,Solid Colors,2,0.8
+4510,4286009,4510.dat,"Plate, Modified 1 x 8 with Door Rail",11,0,Black,Solid Colors,6,1.8
+45677,4191191,45677.dat,Wedge 4 x 4 x 2/3 Triple Curved,11,0,Black,Solid Colors,1,2.67
+4594,6507908,4594.dat,Windscreen 2 x 4 x 2 Vertical,12,47,Trans-Clear,Transparent Colors,1,3.06
+4600,6482961,4600.dat,"Plate, Modified 2 x 2 with Wheels Holder",11,0,Black,Solid Colors,3,0.82
+4735,4141580,4735.dat,Bar 1 x 3 with Clip and Stud Holder (Robot Arm),11,0,Black,Solid Colors,2,0.28
+48092,6252902,48092.dat,"Brick, Round Corner 4 x 4 Macaroni with 3 Studs",11,0,Black,Solid Colors,4,2.0
+49661pb03,6435110,49661p03.dat,Duckling with Molded Bright Light Orange Beak and Printed Black Eyes and Reddish Brown Spots Pattern,68,484,Dark Orange,Solid Colors,1,0
+5175,6461067,5175.dat,Bracket 2 x 4 - 1 x 4,1,15,White,Solid Colors,4,0
+59895,4516843,59895.dat,Tire 14mm D. x 4mm Smooth Small Single with Number Embossed on Side,11,0,Black,Solid Colors,4,0.4
+60212,4600178,60212.dat,"Vehicle, Mudguard 2 x 4 with Arch Studded with Hole",11,0,Black,Solid Colors,3,1.4
+60470b,6310268,60470b.dat,"Plate, Modified 1 x 2 with 2 Open O Clips (Horizontal Grip)",11,0,Black,Solid Colors,1,0.55
+4085d,6330189,60897.dat,"Plate, Modified 1 x 1 with Open O Clip Thick (Vertical Grip)",11,0,Black,Solid Colors,2,0.29
+4073,6514058,6141.dat,"Plate, Round 1 x 1",15,43,Trans-Light Blue,Transparent Colors,1,0.12
+62113,4521681,62113.dat,Bar 1 x 4 x 3 Grille with End Protrusions,11,0,Black,Solid Colors,1,1.03
+63864,4558170,63864.dat,Tile 1 x 3,11,0,Black,Solid Colors,2,0.39
+64644,4538456,64644.dat,"Minifigure, Utensil Telescope",11,0,Black,Solid Colors,6,0.22
+76959,6425507,76959.dat,"Slope, Inverted 45 2 x 2 with Hollow Round Bottom Tube",11,0,Black,Solid Colors,4,0
+79393,6451474,79393.dat,"Tile, Round Corner 3 x 3 Macaroni",153,321,Dark Azure,Solid Colors,4,0
+87079,6206312,87079.dat,Tile 2 x 4,153,321,Dark Azure,Solid Colors,4,0.9
+87079,4566179,87079.dat,Tile 2 x 4,6,2,Green,Solid Colors,1,0.9
+87087,4558954,87087.dat,"Brick, Modified 1 x 1 with Stud on Side",11,0,Black,Solid Colors,2,0.45
+87414,4578677,87414.dat,Tire 15mm D. x 6mm Offset Tread Small - Band Around Center of Tread,11,0,Black,Solid Colors,2,0.5
+93604,6018101,93604.dat,Wedge 3 x 4 x 2/3 Triple Curved,1,15,White,Solid Colors,2,1.55
+973pab,,973pab.dat,"Torso Adventurers Jungle Tank Top, Stains, Wrench, Anchor Tattoo Pattern",3,14,Yellow,Solid Colors,1,0.82
+973pb0664,,973pb0664.dat,Torso Vent Panels and Black and Yellow Circles Pattern,3,14,Yellow,Solid Colors,1,0.8
+98138,6514189,98138.dat,"Tile, Round 1 x 1",17,36,Trans-Red,Transparent Colors,2,0.11
+99780,6020193,99780.dat,Bracket 1 x 2 - 1 x 2 Inverted,11,0,Black,Solid Colors,1,0.55
+99781,6016172,99781.dat,Bracket 1 x 2 - 1 x 2,11,0,Black,Solid Colors,1,0.55
+38781,6231925,bl_38781.dat,"Minifigure Life Jacket, 2 Straps",4,25,Orange,Solid Colors,1,0.32
+-1,,bl_970c03pb44_3815_0.dat,,156,322,Medium Azure,Solid Colors,1,0
+-1,,bl_970c03pb44_3816_1.dat,,3,14,Yellow,Solid Colors,2,0
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+192,141.82 +a,,,,,,,,
